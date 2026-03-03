@@ -3,3 +3,7 @@
 
 ## Bio (Short) — EN
 Érika Cepeda is a Marketing & PR professional in tech and an active Microsoft community speaker. She talks about Copilot, GitHub Copilot, and human-first GenAI experiences through demos and storytelling ✨
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/erikacepeda/
+- Email: erikamcepedasanabria@outlook.com
