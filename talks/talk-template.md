@@ -21,3 +21,7 @@
 - Repo:
 - Slides:
 - Resources:
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/erikacepeda/
+- Email: erikamcepedasanabria@outlook.com
