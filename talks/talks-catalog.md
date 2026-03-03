@@ -8,11 +8,15 @@
 
 **Tags:** Copilot, productivity, prompting, adoption
 
+---
+
 ## 2) GitHub Copilot: pair-programming with glitter ✨
 **ES abstract:** Cómo colaborar con GitHub Copilot como si fuera tu compi de equipo: ideación, refactor, tests y documentación. Sin humo: tips que funcionan y errores típicos que te hacen perder tiempo.  
 **EN abstract:** How to collaborate with GitHub Copilot like a real teammate: ideation, refactoring, tests, and docs. Practical tips + common pitfalls.
 
 **Tags:** GitHub Copilot, dev workflow, best practices
+
+---
 
 ## 3) GitHub Spark: de idea a app en modo velocidad 🚀
 **ES abstract:** Prototipar rápido sin perder calidad: cómo pasar de una idea a un proyecto usable, con foco en demo, storytelling y repo “presentable”. Ideal para comunidad, hackathons y speakers.  
@@ -20,8 +24,16 @@
 
 **Tags:** GitHub Spark, prototyping, demos
 
+---
+
 ## 4) Agents + natural language: cuando “Lucy” trabaja contigo 🪄
 **ES abstract:** Qué son los agentes, qué problemas resuelven y cómo diseñarlos para que no sean “chatbots con esteroides”. Casos de uso, patrones y cómo contarlo sin tecnicismos.  
 **EN abstract:** What agents are, what they solve, and how to design them beyond “chatbots on steroids.” Use cases, patterns, and a human-friendly explanation.
 
 **Tags:** agents, GenAI, design patterns
+
+---
+
+## Booking / Contact 📬
+- LinkedIn: https://www.linkedin.com/in/erikacepeda/
+- Email: erikamcepedasanabria@outlook.com
