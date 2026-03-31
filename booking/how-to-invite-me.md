@@ -24,6 +24,10 @@ Para hacerlo fácil, aquí tienes lo que necesito:
 ## 4) Inclusión & community vibe 🌈
 Me encantan los eventos diversos e inclusivos. Si tenéis código de conducta, pásamelo y lo comparto encantada.
 
+## Speaker info 🏆
+- Microsoft MVP: M365 Copilot 💜
+- Topics: Copilot, GitHub Copilot, GitHub Spark, GenAI for humans ✨
+
 ## Contact 📬
 - LinkedIn: https://www.linkedin.com/in/erikacepeda/
 - Email: erikamcepedasanabria@outlook.com
