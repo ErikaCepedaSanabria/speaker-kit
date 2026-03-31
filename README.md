@@ -1,5 +1,6 @@
 # Érika Cepeda — Speaker Kit 💖✨
 
+🏆 **Microsoft MVP: M365 Copilot** 💜 
 Me gusta el rosa, las mariposas, el brilli-brilli y tener muchas plantas con flores, casi tanto como la IA Generativa, así que es normal que me chifle Copilot ✨🦋🌸  
 I’m a non-technical tech storyteller — I make Copilot & GenAI feel human, fun and usable for everyone ✨
 
