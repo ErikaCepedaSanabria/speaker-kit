@@ -1,6 +1,6 @@
 # Talks Catalog — ES/EN 🎙️✨
 
-> Cada charla puede adaptarse a 20/30/45/60 min y en formato talk o workshop.
+> 🏆 **Microsoft MVP: M365 Copilot** 💜 | Talks in ES/EN | 20–60 min | Talk or workshop
 
 ## 1) Copilot for Humans: de “no técnica” a power user 💖
 **ES abstract:** Una sesión divertida y práctica para entender qué es Copilot (y qué no), cómo usarlo con buen criterio y cómo pasar de prompts sueltos a resultados reales. Incluye ejemplos y un mini-framework para que te lleves tu “prompting routine” lista.  
